@@ -5,7 +5,7 @@
 
 ## 一次性配置
 
-在 `iobee/BrightnessFollow` 的 Settings → Secrets and variables → Actions 中配置：
+在 `bywangdong/BrightnessFollow` 的 Settings → Secrets and variables → Actions 中配置：
 
 | 类型 | 名称 | 内容 |
 | --- | --- | --- |

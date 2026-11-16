@@ -10,7 +10,7 @@ import sys
 import tempfile
 
 ROOT = Path(__file__).resolve().parent.parent
-REPOSITORY = "iobee/BrightnessFollow"
+REPOSITORY = "bywangdong/BrightnessFollow"
 
 
 def gh(*args, optional=False):
